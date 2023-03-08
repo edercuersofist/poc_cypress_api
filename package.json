@@ -166,6 +166,7 @@
     "yauzl": "^2.10.0"
   },
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.35.2",
     "cypress": "^12.7.0"
   },
   "scripts": {
