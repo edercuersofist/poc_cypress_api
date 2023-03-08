@@ -11,7 +11,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Cypress run
-        uses: cypress-io/github-action@v5
         run: npx cypress run --env allure=true
         continue-on-error: true
         with: 
