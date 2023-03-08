@@ -11,10 +11,8 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Cypress run
-        run: npx cypress run --env allure=true
+        run: npx cypress run --env allure=true --browser chrome
         continue-on-error: true
-        with: 
-          browser: chrome
       
       - name: Gera relatório
         uses: actions/checkout@v3
