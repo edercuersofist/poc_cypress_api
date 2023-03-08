@@ -10,6 +10,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Instalar dependências
+        run: npm install
+        continue-on-error: true
+
       - name: Cypress run
         run: npx cypress run --env allure=true --browser chrome
         continue-on-error: true
