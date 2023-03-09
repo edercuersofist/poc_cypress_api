@@ -1,6 +1,6 @@
 name: Cypress API
 
-on: [push]
+on: [workflow_dispatch]
 
 jobs:
   cypress-run:
