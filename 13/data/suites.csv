@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 09 17:01:24 GMT 2023","Thu Mar 09 17:01:24 GMT 2023","47","API de usuários","Método GET","","","","Listar usuário específico",""
+"passed","Thu Mar 09 17:01:20 GMT 2023","Thu Mar 09 17:01:20 GMT 2023","57","API de posts","Método GET","","","","Listar posts de um usuário específico",""
+"passed","Thu Mar 09 17:01:15 GMT 2023","Thu Mar 09 17:01:15 GMT 2023","109","API de comentários","Método GET","","","","Listar comentário de um post específico",""
+"passed","Thu Mar 09 17:01:24 GMT 2023","Thu Mar 09 17:01:24 GMT 2023","95","API de usuários","Método GET","","","","Listar todos os usuários",""
+"passed","Thu Mar 09 17:01:14 GMT 2023","Thu Mar 09 17:01:15 GMT 2023","190","API de comentários","Método GET","","","","Listar todos os comentários",""
+"passed","Thu Mar 09 17:01:20 GMT 2023","Thu Mar 09 17:01:20 GMT 2023","88","API de posts","Método GET","","","","Listar todos os posts",""
